@@ -29,4 +29,4 @@ status:
 push:
 	@echo ""
 	@echo "### pushing of $(NAME_GIT) ###"
-	git push "https://github.com/peterweissig/cpp_comport.git" --tags
+	git push "https://github.com/peterweissig/cpp_comport.git"
